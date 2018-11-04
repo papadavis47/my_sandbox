@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# I am using gedit to do something that I just completed in Nano.
+# I want to learn this text editor, too.
+
+echo 'My name is John Davis. I am the master of this computer.' # another comment
+
+# We shall see some syntax highlighting when I am done saving this.

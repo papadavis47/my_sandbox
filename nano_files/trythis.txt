@@ -1,0 +1,4 @@
+Learning various commands. Trying out the touch command. Will try the redirection commands and wc and append. 
+
+And pipes soon. See how this goes.
+This is from John William Davis.

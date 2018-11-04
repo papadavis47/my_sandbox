@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Here's an example of a comment. This script will work as an example Hello World.
+# Author: Shannon Morse
+
+echo 'Hello World!' 
+
+ #And here is is another comment.
