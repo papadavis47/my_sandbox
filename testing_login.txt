@@ -1,0 +1,3 @@
+I want to write something here and then commit the changes after adding them to the repo.
+
+Then I will push to Github and test out my new email login.
